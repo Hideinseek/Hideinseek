@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LioneltheBuilder
 - 👀 I’m interested in anything and everything. 
-- 🌱 I’m currently learning Javascript and PHP
+- 🌱 I’m currently learning Javascript and PHP and most importantly blockchain development
 - 💞️ I’m looking to collaborate on anything I can be useful on.
 - 📫 How to reach me lionel.thebldrs@gmail.com
 
