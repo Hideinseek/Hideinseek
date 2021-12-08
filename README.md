@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @LioneltheBuilder
-- 👀 I’m interested in anything and everything. 
-- 🌱 I’m currently learning Javascript and PHP and most importantly blockchain development
+- 👀 I’m mostly interested in blockchain techonology
+- 🌱 I’m currently learning Javascript, react and node.js
 - 💞️ I’m looking to collaborate on anything I can be useful on.
-- 📫 How to reach me lionel.thebldrs@gmail.com
+- 📫 How to reach me lionel@blockchaingames.world
 
 <!---
 Hideinseek/Hideinseek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
